@@ -3,3 +3,7 @@
 Ethernet Line, or E-Line.
 - Virtual Private LAN Service (VPLS) - MultiPoint-to-MultiPoint (MP2MP), also known as 
 Ethernet Local Area Network, or E-LAN.
+
+**Pseudowire (PW)**
+
+**Virutal Circuit (VC)**
